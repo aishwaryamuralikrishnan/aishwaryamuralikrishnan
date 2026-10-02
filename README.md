@@ -1,6 +1,6 @@
 # Hi, I'm Aishwarya
 
-**EN** · I build LLM applications and take them all the way to a deployed product: retrieval-augmented generation, tool-calling agents with LangChain and LangGraph, and full-stack web apps. I enforce guardrails in code rather than in prompts. I explain the reasoning behind each design choice and measure how my applications perform, with retrieval and faithfulness scores or cost per session. Open to junior AI roles in Germany · [LinkedIn](https://www.linkedin.com/in/aishwarya-murali-krishnan-354b44198)
+**EN** · I build LLM applications and take them all the way to a deployed product: retrieval-augmented generation, tool-calling agents with LangChain and LangGraph, and full-stack web apps. I enforce guardrails in code rather than in prompts. I explain the reasoning behind each design choice and measure how my applications perform, with retrieval and faithfulness scores or cost per session. Open to junior AI roles in Germany · 
 
 **DE** · Ich entwickle LLM-Anwendungen von der Idee bis zum Deployment: Retrieval-Augmented Generation (RAG), Agenten mit Tool-Calling auf Basis von LangChain und LangGraph sowie Full-Stack-Webanwendungen. Guardrails setze ich im Code um statt im Prompt. Jede Designentscheidung begründe ich nachvollziehbar, und die Leistung meiner Anwendungen messe ich, etwa mit Retrieval- und Faithfulness-Scores oder den Kosten pro Sitzung. Offen für Junior-Positionen im KI-Bereich in Deutschland.
 
